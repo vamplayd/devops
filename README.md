@@ -1,5 +1,5 @@
 # devops
-ntroduction to GitHub
+Introduction to GitHub
 Get started using GitHub in less than an hour.
 
 Welcome
@@ -25,3 +25,4 @@ For owner, choose your personal account or an organization to host the repositor
 We recommend creating a public repository, as private repositories will use Actions minutes.
 Scroll down and click the Create repository button at the bottom of the form.
 After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+
